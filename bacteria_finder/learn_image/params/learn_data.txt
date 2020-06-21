@@ -1,0 +1,48 @@
+1ecoli.png
+C=209 d=20
+Area:174.0 Perimeter:74.9116873741
+Area:111.5 Perimeter:66.8700572252
+Area:186.5 Perimeter:74.3847759962
+Area:111.5 Perimeter:53.5563489199
+Area:126.0 Perimeter:57.7989895344
+Area:166.5 Perimeter:79.2132030725
+Area:167.5 Perimeter:77.6984843016
+Area:183.5 Perimeter:80.6690467596
+2haemolyticus.png
+C=209 d=10
+Area:101.5 Perimeter:38.7279218435
+Area:88.0 Perimeter:36.1421353817
+Area:107.0 Perimeter:40.970562458
+Area:74.5 Perimeter:32.7279218435
+Area:86.0 Perimeter:36.1421353817
+Area:72.5 Perimeter:38.3847759962
+3oxytoka.png
+C=209 d=-10
+Area:68.5 Perimeter:43.5563489199
+Area:67.5 Perimeter:43.5563489199
+Area:66.5 Perimeter:42.7279218435
+Area:82.0 Perimeter:48.485281229
+Area:43.0 Perimeter:32.485281229
+Area:84.5 Perimeter:44.8700572252
+Area:36.5 Perimeter:27.8994947672
+Area:81.5 Perimeter:45.6984843016
+4saprophyticus.png
+C=209 d=-25
+Area:18.0 Perimeter:17.6568541527
+Area:22.5 Perimeter:19.0710676908
+Area:31.5 Perimeter:21.8994947672
+Area:14.5 Perimeter:15.0710676908
+Area:16.0 Perimeter:15.6568541527
+Area:22.0 Perimeter:18.485281229
+Area:21.0 Perimeter:17.6568541527
+Area:25.5 Perimeter:19.8994947672
+5pneumoniae.png
+C=209 d=5
+Area:147.5 Perimeter:59.6984843016
+Area:122.5 Perimeter:50.0416301489
+Area:136.0 Perimeter:57.4558436871
+Area:164.0 Perimeter:64.1421353817
+Area:147.0 Perimeter:59.4558436871
+Area:129.0 Perimeter:55.4558436871
+Area:196.0 Perimeter:64.970562458
+Area:185.5 Perimeter:64.5269113779
